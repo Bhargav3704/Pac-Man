@@ -1,5 +1,5 @@
-gymnasium
-os
-random
-numpy
-torch
+Gymnasium
+OS
+Random
+Numpy
+PyTorch
