@@ -9,15 +9,17 @@ Pac-Man Using Deep Q- Learning
 The Pac-Man agent learns by interacting with the environment.
 Actions lead to rewards or penalties, allowing the agent to learn an optimal policy.
 
-###Deep Q-Learning
+###
+
+### Deep Q-Learning
 The agent uses a Q-value function to estimate the quality of a given action in a state.
 A neural network (DQN) approximates the Q-values instead of using a table.
+###
 
-
-###Convolutional Neural Networks (CNNs)
+### Convolutional Neural Networks (CNNs)
 CNNs process the game frames (images) as input, extracting spatial features like maze layout, ghost positions, and pellet locations.
 The extracted features are fed into the DQN to make decisions.
-
+###
 
 ### License
 
